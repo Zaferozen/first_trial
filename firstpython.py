@@ -1,2 +1,2 @@
 #it prints
-print("cokzor")
+Print("cokzor")
